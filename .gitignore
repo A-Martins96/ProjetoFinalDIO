@@ -1,5 +1,17 @@
+# Maven
 target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
 .idea/
 *.iml
+.vscode/
+*.code-workspace
+
+# Sistema
 .DS_Store
+Thumbs.db
+
+# Segredos e logs
 .env
+*.log
